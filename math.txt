@@ -1,0 +1,5 @@
+input
+All the store have nothing
+Processing Step
+Figure the total
+Output display total on screen
